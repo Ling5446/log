@@ -1,0 +1,239 @@
+Log file open, [2025.12.15-23.47.24]
+[GameThread]LogInit: Display: Project file not found: ../../../Client/Client.uproject
+[GameThread]LogInit: Display: 	Attempting to find via project info helper.
+[]LogAndroid: Case APP_CMD_WINDOW_RESIZED
+[GameThread]LogUProjectInfo: Found projects:
+[]LogAndroid: Case APP_CMD_WINDOW_REDRAW_NEEDED
+[GameThread]LogTemp: 8 cores and 8 assignable cores
+[GameThread]LogPakFile: Display: Found Pak file Client/Content/Paks/pakchunk3-Android_ASTC.pak attempting to mount.
+[GameThread]LogPakFile: Display: Mounting pak file Client/Content/Paks/pakchunk3-Android_ASTC.pak.
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=309632
+[GameThread]LogPakFile: PakFile PathHashIndexSize=177008
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=565120
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000012
+[GameThread]LogPakFile: Display: Found Pak file Client/Content/Paks/pakchunk18-Android_ASTC.pak attempting to mount.
+[GameThread]LogPakFile: Display: Mounting pak file Client/Content/Paks/pakchunk18-Android_ASTC.pak.
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=880
+[GameThread]LogPakFile: PakFile PathHashIndexSize=688
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=2000
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000016
+[GameThread]LogPakFile: Display: Found Pak file Client/Content/Paks/pakchunk1-Android_ASTC.pak attempting to mount.
+[GameThread]LogPakFile: Display: Mounting pak file Client/Content/Paks/pakchunk1-Android_ASTC.pak.
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=57328
+[GameThread]LogPakFile: PakFile PathHashIndexSize=28928
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=89040
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000020
+[GameThread]LogPakFile: Display: Found Pak file Client/Content/Paks/pakchunk0optional-Android_ASTC.pak attempting to mount.
+[GameThread]LogPakFile: Display: Mounting pak file Client/Content/Paks/pakchunk0optional-Android_ASTC.pak.
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=256
+[GameThread]LogPakFile: PakFile PathHashIndexSize=32
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=112
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000021
+[GameThread]LogPakFile: Display: Found Pak file Client/Content/Paks/pakchunk0-Android_ASTC.pak attempting to mount.
+[GameThread]LogPakFile: Display: Mounting pak file Client/Content/Paks/pakchunk0-Android_ASTC.pak.
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=189488
+[GameThread]LogPakFile: PakFile PathHashIndexSize=175152
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=222064
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000024
+[GameThread]LogKuroPak: Display: InitExtPakPlatform() invoke FKuroPakPlatform::MountPaksByType(Startup, true).
+[GameThread]LogKuroPak: Display: Kuro App Version 2.8.0
+[GameThread]LogKuroPak: Display: kuro auto mount dir ../../../Client/Saved/Resources/2.8.0
+[GameThread]LogKuroPak: Display: Kuro App Version 2.8.0
+[GameThread]LogKuroPak: Display: kuro auto mount dir ../../../Client/Saved/Resources/2.8.0/Mount
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountLauncher.txt
+[GameThread]LogKuroPak: kuro check sha1 buffer size. size=65536, ini_size=65536
+[]LogAndroid: Case APP_CMD_GAINED_FOCUS
+[]KuroSDKAndroidGlobal: KuroSDKAndroid onLog=level=1,msg=[KUROSDK][2025_12_15 23:47:21:647][I][KrImp] onWindowFocusChanged:true
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Launcher/2.8.12/pakchunk1-Android_ASTC_P.pak) is 521D4B246996229476F89CC97BFEA33EB27AC1FB, Target Sha1 is 521D4B246996229476F89CC97BFEA33EB27AC1FB
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Launcher/2.8.12/pakchunk1-Android_ASTC_P.pak) checked in 50.39 ms
+[GameThread]LogKuroPak: kuro check sha1 buffer size. size=65536, ini_size=65536
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Launcher/2.8.12/pakchunk1-Android_ASTC_P.sig) is 0632A5F21A68BA210A58508ACFC99478E15DFA41, Target Sha1 is 0632A5F21A68BA210A58508ACFC99478E15DFA41
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Launcher/2.8.12/pakchunk1-Android_ASTC_P.sig) checked in 1.07 ms
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountResource.txt
+[GameThread]LogKuroPak: kuro check sha1 buffer size. size=65536, ini_size=65536
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Resource/2.8.12/pakchunk0-Android_ASTC_P.pak) is 400A1489AA7C4E71A48B6642CBD2B5319F8E8C24, Target Sha1 is 400A1489AA7C4E71A48B6642CBD2B5319F8E8C24
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Resource/2.8.12/pakchunk0-Android_ASTC_P.pak) checked in 47.59 ms
+[GameThread]LogKuroPak: kuro check sha1 buffer size. size=65536, ini_size=65536
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Resource/2.8.12/pakchunk0-Android_ASTC_P.sig) is 514A08DFC309551CD97D6454108906B091CAA295, Target Sha1 is 514A08DFC309551CD97D6454108906B091CAA295
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Resource/2.8.12/pakchunk0-Android_ASTC_P.sig) checked in 0.51 ms
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountLang_en.txt
+[GameThread]LogKuroPak: kuro check sha1 buffer size. size=65536, ini_size=65536
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Lang_en/Base/pakchunk10-Android_ASTC.pak) is 10ECC6FCCCDA56280C5D48B8031BA4B9BE717849, Target Sha1 is 10ECC6FCCCDA56280C5D48B8031BA4B9BE717849
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Lang_en/Base/pakchunk10-Android_ASTC.pak) checked in 2848.66 ms
+[GameThread]LogKuroPak: kuro check sha1 buffer size. size=65536, ini_size=65536
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Lang_en/Base/pakchunk10-Android_ASTC.sig) is 8E745872FA012A3D118B2FB6597FFE7B9D83C1CB, Target Sha1 is 8E745872FA012A3D118B2FB6597FFE7B9D83C1CB
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Lang_en/Base/pakchunk10-Android_ASTC.sig) checked in 0.80 ms
+[GameThread]LogKuroPak: kuro check sha1 buffer size. size=65536, ini_size=65536
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Lang_en/2.8.10/pakchunk10-Android_ASTC_P.pak) is F91BA904BF449484E1EA181727DF425B12A68685, Target Sha1 is F91BA904BF449484E1EA181727DF425B12A68685
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Lang_en/2.8.10/pakchunk10-Android_ASTC_P.pak) checked in 22.17 ms
+[GameThread]LogKuroPak: kuro check sha1 buffer size. size=65536, ini_size=65536
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Lang_en/2.8.10/pakchunk10-Android_ASTC_P.sig) is 963608EAB97415F37A327EF54B33433EC60F51EB, Target Sha1 is 963608EAB97415F37A327EF54B33433EC60F51EB
+[GameThread]LogKuroPak: Display: The Sha1 of file(../../../Client/Saved/Resources/2.8.0/Lang_en/2.8.10/pakchunk10-Android_ASTC_P.sig) checked in 0.40 ms
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountOption_Pack_DianDaoTa.txt
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountOption_Pack_HaiDiShiYanChang.txt
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountOption_Pack_HHA_Underground.txt
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountOption_Pack_HL.txt
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountOption_Pack_JK_Underground.txt
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountOption_Pack_LGN.txt
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountOption_Pack_QQ.txt
+[GameThread]LogKuroPak: Display: read mount manifest file ../../../Client/Saved/Resources/2.8.0/Mount/MountOption_Pack_SuiBo.txt
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=384
+[GameThread]LogPakFile: PakFile PathHashIndexSize=352
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=1200
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000027
+[GameThread]LogKuroPak: Display: mouted PAK file (../../../Client/Saved/Resources/2.8.0/Launcher/2.8.12/pakchunk1-Android_ASTC_P.pak).
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=464
+[GameThread]LogPakFile: PakFile PathHashIndexSize=1376
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=1568
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000028
+[GameThread]LogKuroPak: Display: mouted PAK file (../../../Client/Saved/Resources/2.8.0/Resource/2.8.12/pakchunk0-Android_ASTC_P.pak).
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=1788224
+[GameThread]LogPakFile: PakFile PathHashIndexSize=1186496
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=4038144
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000035
+[GameThread]LogKuroPak: Display: mouted PAK file (../../../Client/Saved/Resources/2.8.0/Lang_en/Base/pakchunk10-Android_ASTC.pak).
+[GameThread]LogPakFile: PakFile PrimaryIndexSize=92752
+[GameThread]LogPakFile: PakFile PathHashIndexSize=53024
+[GameThread]LogPakFile: PakFile FullDirectoryIndexSize=210624
+[GameThread]LogPakFile: OnPakFileMounted2Time == 0.000038
+[GameThread]LogKuroPak: Display: mouted PAK file (../../../Client/Saved/Resources/2.8.0/Lang_en/2.8.10/pakchunk10-Android_ASTC_P.pak).
+[GameThread]LogTemp: Display: FAndroidPlatformProcess::SetupGameThread
+[GameThread]LogTaskGraph: Display: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+[TaskGraphThreadNP 0]LogCore: Display: FThreadManager registering thread TaskGraphThreadNP 0 (2962)
+[TaskGraphThreadNP 1]LogCore: Display: FThreadManager registering thread TaskGraphThreadNP 1 (2963)
+[TaskGraphThreadNP 2]LogCore: Display: FThreadManager registering thread TaskGraphThreadNP 2 (2964)
+[TaskGraphThreadHP 3]LogCore: Display: FThreadManager registering thread TaskGraphThreadHP 3 (2965)
+[TaskGraphThreadHP 4]LogCore: Display: FThreadManager registering thread TaskGraphThreadHP 4 (2966)
+[TaskGraphThreadHP 5]LogCore: Display: FThreadManager registering thread TaskGraphThreadHP 5 (2967)
+[TaskGraphThreadBP 6]LogCore: Display: FThreadManager registering thread TaskGraphThreadBP 6 (2976)
+[TaskGraphThreadBP 7]LogCore: Display: FThreadManager registering thread TaskGraphThreadBP 7 (2978)
+[TaskGraphThreadBP 8]LogCore: Display: FThreadManager registering thread TaskGraphThreadBP 8 (2979)
+[ThreadPool Thread-0]LogCore: Display: FThreadManager registering thread ThreadPool Thread-0 (2982)
+[ThreadPool Thread-1]LogCore: Display: FThreadManager registering thread ThreadPool Thread-1 (2984)
+[ThreadPool Thread-2]LogCore: Display: FThreadManager registering thread ThreadPool Thread-2 (2986)
+[BackgroundThreadPool Thread-3]LogCore: Display: FThreadManager registering thread BackgroundThreadPool Thread-3 (2987)
+[BackgroundThreadPool Thread-4]LogCore: Display: FThreadManager registering thread BackgroundThreadPool Thread-4 (2988)
+[GameThread]LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+[GameThread]LogRHI: elgInitialize: 1.5
+[GameThread]LogRHI: EGL Version: 1.5 Android META-EGL
+[GameThread]LogRHI: EGL Extensions: 
+EGL_ANDROID_front_buffer_auto_refresh EGL_ANDROID_get_native_client_buffer EGL_ANDROID_presentation_time EGL_EXT_surface_CTA861_3_metadata EGL_EXT_surface_SMPTE2086_metadata EGL_KHR_get_all_proc_addresses EGL_KHR_swap_buffers_with_damage EGL_ANDROID_get_frame_timestamps EGL_ANDROID_image_native_buffer EGL_ANDROID_native_fence_sync EGL_ANDROID_recordable EGL_EXT_create_context_robustness EGL_EXT_image_gl_colorspace EGL_EXT_pixel_format_float EGL_EXT_protected_content EGL_EXT_yuv_surface EGL_IMG_context_priority EGL_KHR_create_context EGL_KHR_create_context_no_error EGL_KHR_fence_sync EGL_KHR_gl_colorspace EGL_KHR_gl_renderbuffer_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_3D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_image EGL_KHR_image_base EGL_KHR_lock_surface EGL_KHR_mutable_render_buffer EGL_KHR_no_config_context EGL_KHR_partial_update EGL_KHR_reusable_sync EGL_KHR_surfaceless_context EGL_KHR_wait_sync 
+[GameThread]LogAndroid: AndroidEGL::Init() es3.2 with noerror context, result:1, tid : 2711
+[GameThread]LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UE4CC-Android-0005A6D208DE3C344C3A38C669ED03FD
+         Session CrashGUID >====================================================
+[GameThread]LogAndroid: Vulkan library detected, checking for available driver
+[GameThread]LogAndroid: Error: Failed to init Vulkan because of current driver version 0x801f6000 less than the minimum tolerance version 0x80212000.
+[GameThread]LogAndroid: Vulkan driver NOT available.
+[LogMasterThread]LogCore: Display: FThreadManager registering thread LogMasterThread (2989)
+[GameThread]LogTemp: LoadModule:	KuroSDK.
+[GameThread]LogPluginManager: Mounting plugin InstanceTool
+[GameThread]LogPluginManager: Mounting plugin ImpostorBaker
+[GameThread]LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+[GameThread]LogPluginManager: Mounting plugin KawaiiPhysics
+[GameThread]LogPluginManager: Mounting plugin GameplayAbilities
+[GameThread]LogPluginManager: Mounting plugin GameplayTagsEditor
+[GameThread]LogPluginManager: Mounting plugin json2struct
+[GameThread]LogPluginManager: Mounting plugin FieldSystemPlugin
+[GameThread]LogPluginManager: Mounting plugin SQLiteCore
+[GameThread]LogPluginManager: Mounting plugin SQLiteSupport
+[GameThread]LogPluginManager: Mounting plugin DatabaseSupport
+[GameThread]LogPluginManager: Mounting plugin LGUI
+[GameThread]LogPluginManager: Mounting plugin PrefabSystem
+[GameThread]LogPluginManager: Mounting plugin Niagara
+[GameThread]LogPluginManager: Mounting plugin KuroGameplay
+[GameThread]LogPluginManager: Mounting plugin Puerts
+[GameThread]LogPluginManager: Mounting plugin EditorScriptingUtilities
+[GameThread]LogPluginManager: Mounting plugin PerfSight
+[GameThread]LogPluginManager: Mounting plugin Wwise
+[GameThread]LogPluginManager: Mounting plugin GeometryMode
+[GameThread]LogPluginManager: Mounting plugin ExcelTools
+[GameThread]LogPluginManager: Mounting plugin PropertyAccessEditor
+[GameThread]LogPluginManager: Mounting plugin PlatformCrypto
+[GameThread]LogPluginManager: Mounting plugin SequencerScripting
+[GameThread]LogPluginManager: Mounting plugin PythonScriptPlugin
+[GameThread]LogPluginManager: Mounting plugin ProceduralMeshComponent
+[GameThread]LogPluginManager: Mounting plugin ActorSequence
+[GameThread]LogPluginManager: Mounting plugin CrashSight
+[GameThread]LogPluginManager: Mounting plugin LevelSequenceEditor
+[GameThread]LogPluginManager: Mounting plugin QuickEditor
+[GameThread]LogPluginManager: Mounting plugin Sharphereal
+[GameThread]LogPluginManager: Mounting plugin GeometryProcessing
+[GameThread]LogPluginManager: Mounting plugin LGUI_TexturePackerImporter
+[GameThread]LogPluginManager: Mounting plugin AssetManagerEditor
+[GameThread]LogPluginManager: Mounting plugin TASdkPlugin
+[GameThread]LogPluginManager: Mounting plugin LGUI_BMFGenImporter
+[GameThread]LogPluginManager: Mounting plugin rdLODtools
+[GameThread]LogPluginManager: Mounting plugin KuroCommandlet
+[GameThread]LogPluginManager: Mounting plugin AudioMaterialPlugin
+[GameThread]LogPluginManager: Mounting plugin DLSS
+[GameThread]LogPluginManager: Mounting plugin Streamline
+[GameThread]LogPluginManager: Mounting plugin StreamlineCore
+[GameThread]LogPluginManager: Mounting plugin StreamlineDLSSG
+[GameThread]LogPluginManager: Mounting plugin StreamlineReflex
+[GameThread]LogPluginManager: Mounting plugin StreamlineDeepDVC
+[GameThread]LogPluginManager: Mounting plugin HoudiniEngine
+[GameThread]LogPluginManager: Mounting plugin KuroPuertsWrapper
+[GameThread]LogPluginManager: Mounting plugin KuroHotPatch
+[GameThread]LogPluginManager: Mounting plugin KuroImposter
+[GameThread]LogPluginManager: Mounting plugin KuroAutomationTool
+[GameThread]LogPluginManager: Mounting plugin HoudiniNiagara
+[GameThread]LogPluginManager: Mounting plugin SMSystem
+[GameThread]LogPluginManager: Mounting plugin KuroPuertsGeneratedWrapper
+[GameThread]LogPluginManager: Mounting plugin AudioSynesthesia
+[GameThread]LogPluginManager: Mounting plugin ControlRig
+[GameThread]LogPluginManager: Mounting plugin ChaosCloth
+[GameThread]LogPluginManager: Mounting plugin GeometryCache
+[GameThread]LogPluginManager: Mounting plugin LightPropagationVolume
+[GameThread]LogPluginManager: Mounting plugin ImgMedia
+[GameThread]LogPluginManager: Mounting plugin MediaCompositing
+[GameThread]LogPluginManager: Mounting plugin TemplateSequence
+[GameThread]LogPluginManager: Mounting plugin Synthesis
+[GameThread]LogPluginManager: Mounting plugin SequenceDialogue
+[GameThread]LogPluginManager: Mounting plugin ReactUMG
+[GameThread]LogPluginManager: Mounting plugin T4M
+[GameThread]LogPluginManager: Mounting plugin ApexDestruction
+[GameThread]LogPluginManager: Mounting plugin GooglePAD
+[GameThread]LogPluginManager: Mounting plugin RenderExporter
+[GameThread]LogPluginManager: Mounting plugin KuroiOSDelegate
+[GameThread]LogPluginManager: Mounting plugin KuroCloudGame
+[GameThread]LogPluginManager: Mounting plugin KuroGameplayUI
+[GameThread]LogPluginManager: Mounting plugin OpacityMicroMap
+[GameThread]LogPluginManager: Mounting plugin BlockoutToolsPlugin
+[GameThread]LogPluginManager: Mounting plugin ComfyTextures
+[GameThread]LogPluginManager: Mounting plugin GameplayMessageRouter
+[GameThread]LogPluginManager: Mounting plugin KuroComputeShader
+[GameThread]LogPluginManager: Mounting plugin KuroTDM
+[GameThread]LogPluginManager: Mounting plugin ImposterBaker
+[GameThread]LogPluginManager: Mounting plugin KuroGachaTools
+[GameThread]LogPluginManager: Mounting plugin KuroPSOTools
+[GameThread]LogPluginManager: Mounting plugin KuroPushSdk
+[GameThread]LogPluginManager: Mounting plugin MagtModule
+[GameThread]LogPluginManager: Mounting plugin MTKCompensatedTimeStep
+[GameThread]LogPluginManager: Mounting plugin SdkParamExtend
+[GameThread]LogPluginManager: Mounting plugin SpinePlugin
+[GameThread]LogPluginManager: Mounting plugin TpSafe
+[GameThread]LogPluginManager: Mounting plugin AFME
+[GameThread]LogPluginManager: Mounting plugin ACLPlugin
+[GameThread]LogPluginManager: Mounting plugin AssetChecker
+[GameThread]LogPluginManager: Mounting plugin AssetMemoryAnalyzer
+[GameThread]LogPluginManager: Mounting plugin DawnHive
+[GameThread]LogPluginManager: Mounting plugin MagicDawn
+[GameThread]LogPluginManager: Mounting plugin PluginUtils
+[GameThread]LogPluginManager: Mounting plugin SpeedTreeImporter
+[GameThread]LogPluginManager: Mounting plugin AlembicImporter
+[GameThread]LogPluginManager: Mounting plugin ChaosClothEditor
+[GameThread]LogPluginManager: Mounting plugin ChaosNiagara
+[GameThread]LogPluginManager: Mounting plugin ChaosSolverPlugin
+[GameThread]LogPluginManager: Mounting plugin GSR
+[GameThread]LogPluginManager: Mounting plugin AndroidMedia
+[GameThread]LogPluginManager: Mounting plugin MeshPainting
+[GameThread]LogPluginManager: Mounting plugin MFRCModule
+[GameThread]LogPluginManager: Mounting plugin MatineeToLevelSequence
+[GameThread]LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+[GameThread]LogPluginManager: Mounting plugin AndroidPermission
+[GameThread]LogPluginManager: Mounting plugin XeSS
+[GameThread]LogPluginManager: Mounting plugin MobilePatchingUtils
+[GameThread]LogPluginManager: Mounting plugin NRD
+[GameThread]LogPluginManager: Mounting plugin RuntimePhysXCooking
+[GameThread]LogTemp
